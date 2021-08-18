@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://caotengfei.xyz
 date_format: "ordinal"
 title: 少年爱科学
-subtitle: "csdn：少年爱科学"
+subtitle: "CSDN：少年爱科学"
 description: "Caotengfei的个人博客，公众号：闷骚的程序员"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/Shanghai
@@ -51,9 +51,9 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: 少年爱科学
+location: Caotengfei, China
+email: 1460559950@qq.com
 
 # ---------------- #
 #    Navigation    #
